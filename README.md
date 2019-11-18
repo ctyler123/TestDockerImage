@@ -1,0 +1,1 @@
+This repo contains a first try at creating a docker/k8s to run parasoft soa test on.
