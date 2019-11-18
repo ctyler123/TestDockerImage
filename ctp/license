@@ -1,0 +1,7 @@
+#Thu Oct 31 09:27:12 PDT 2019
+ctp.license.use_network=true
+license.network.auth.enabled=$LICENSE_SERVER_AUTH_ENABLED
+license.network.host=$LICENSE_SERVER_HOST
+license.network.password=$LICENSE_SERVER_PASSWORD
+license.network.port=$LICENSE_SERVER_PORT
+license.network.user=$LICENSE_SERVER_USERNAME
